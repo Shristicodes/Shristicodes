@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shristicodes
 - 👀 I’m interested in learning DSA and web development. 
-- 🌱 I’m currently learning to make progress in competitive programming.
+- 🌱 I’m currently making progress in competitive programming.
 - 📫 Reach me on my mail id : shrish.verma08@gmail.com
 
 <!---
