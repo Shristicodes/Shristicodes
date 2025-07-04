@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shristi
-- 🌱 I’m currently making progress in making full-stack mobile app development.
+- 🌱 I’m currently making progress in doing full-stack mobile app development.
 - 📫 Reach me on my mail id : shrish.verma08@gmail.com
 
 <!---
